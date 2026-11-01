@@ -7,3 +7,6 @@ Building the bridge between virtual simulation and real-world robotics.
 ![Simulation Portfolio](./SimulationList.gif)
 
 ---
+## GitHub Contributions
+
+![GitHub Contributions](https://ghchart.rshah.org/acestarkzip)
