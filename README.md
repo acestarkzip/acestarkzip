@@ -1,9 +1,3 @@
-# Hi, I'm Ace Stark 👋
-
-### Physical AI | Robotics Simulation Engineer
-
-Building the bridge between virtual simulation and real-world robotics.
+# Hi 👋
 
 ![Simulation Portfolio](./SimulationList.gif)
-
----
