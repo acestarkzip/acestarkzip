@@ -4,5 +4,5 @@
 
 Building the bridge between virtual simulation and real-world robotics.
 
-![Simulation Portfolio](./SimulationList.gif)
+![Simulation Portfolio](./7years_experience.png)
 
