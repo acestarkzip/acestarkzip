@@ -1,5 +1,5 @@
 ![Simulation Portfolio](./youtube_banner.jpg)
-[![Youtube : www.sssrobotics.com](https://shields.io)](https://youtu.be/59USvjy2toI)(https://www.youtube.com/@sssrobotics))
+[![Youtube : www.sssrobotics.com]](https://www.youtube.com/@sssrobotics)
 
 # Hi, I'm Ace 👋
 
