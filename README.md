@@ -1,5 +1,6 @@
 ![Simulation Portfolio](./youtube_banner.jpg)
-![YouTube : www.sssrobotics.com](./youtube logo.png)(https://www.youtube.com/@sssrobotics)
+<a href="https://youtube.com"><img src="https://githubusercontent.com" alt="YouTube" width="24" height="24"/></a> YouTube : www.sssrobotics.com
+
 
 # Hi, I'm Ace 👋
 
